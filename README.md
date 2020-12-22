@@ -1,2 +1,2 @@
 # bert
-Using BERT training model to display keywords from a reddit post.
+Using BERT NLP model to classify keywords from a reddit post.
